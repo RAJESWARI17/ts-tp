@@ -1,0 +1,18 @@
+Test Strategy:
+1) Assess Testability
+2) Assess test factor
+3) Identify the lifecycle stages 
+4) Assess drivers
+
+Test plan:
+1) Test item
+2) Software risk issues
+3) Features to be tested
+4) Features not to be tested
+5) Approach
+6) Test deliverable
+7) Item pass/fail criteria
+8) Supension & Resumption criteria
+9) Responsibility
+10) Staffing and training need
+11) Schedule
